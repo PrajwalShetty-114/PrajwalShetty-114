@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrajwalShetty-114
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
-- I am just code this website using internal css framework Flexbox.
+- I am just coded this website using internal css framework Flexbox.
 - still a lot of things to learn.
 
 <!---
