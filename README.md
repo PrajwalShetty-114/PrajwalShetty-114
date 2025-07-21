@@ -1,10 +1,48 @@
-- 👋 Hi, I’m @PrajwalShetty-114
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
-- I am just coded this website using internal css framework Flexbox.
-- still a lot of things to learn.
+# Hi there, I'm Prajwal Shetty 👋
 
-<!---
-PrajwalShetty-114/PrajwalShetty-114 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 **Interested in the World of Technology**
+
+I'm a passionate learner and aspiring Full-Stack Developer who loves to explore how things work under the hood. Currently diving deep into web development and excited to apply Machine Learning to solve real-world problems like traffic prediction.
+
+---
+
+## 🚀 Tech Stack
+
+- 💻 Languages: C, HTML, CSS, JavaScript  
+- 🧰 Tools & Frameworks: Node.js, Express.js, Embedded JS (EJS)  
+- 🔄 Currently learning: REST APIs & Databases (SQL and POSTGRESQL coming soon!)  
+
+---
+
+## 🔭 Projects
+
+### 🚦 Traffic Prediction System using Machine Learning  
+A project where I aim to use ML to help predict traffic flow for smarter cities.  
+🔗 [GitHub Repo](https://github.com/PrajwalShetty-114/Project-1)
+
+---
+
+## 🎯 2025 Goals
+
+- ✅ Become a Full-Stack Developer  
+- 🤖 Learn how ML & AI work and start building my own models   
+- 🌱 Grow my developer network and contribute to open-source
+
+---
+
+## 🎨 About Me
+
+- 🏸 I love playing badminton  
+- 🎨 I enjoy drawing (even though I’m still learning!)  
+- 💬 Favorite Quote: _"Just following the path... the time teaches us to adjust with anything."_  
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/prajwal-shetty-4499332a7)  
+- 📧 Email: prajwalshetty795@gmail.com
+
+---
+
+![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrajwalShetty-114&show_icons=true&theme=radical)
