@@ -18,7 +18,7 @@ I'm a passionate learner and aspiring Full-Stack Developer who loves to explore 
 
 ### 🚦 Traffic Prediction System using Machine Learning  
 A project where I aim to use ML to help predict traffic flow for smarter cities.  
-🔗 [GitHub Repo](https://github.com/PrajwalShetty-114/Project-1)
+🔗 [GitHub Repo](https://github.com/PrajwalShetty-114/Project-1) ( Sample Full Stack Repo , not a Real project REPO.
 
 ---
 
