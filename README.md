@@ -1,48 +1,82 @@
-# Hi there, I'm Prajwal Shetty 👋
+# 👋 Hi, I'm Prajwal Shetty
 
-🌐 **Interested in the World of Technology**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;Learning+Backend+Development;Exploring+AI+and+Machine+Learning" />
+</p>
 
-I'm a passionate learner and aspiring Full-Stack Developer who loves to explore how things work under the hood. Currently diving deep into web development and excited to apply Machine Learning to solve real-world problems like traffic prediction.
+## Aspiring Full-Stack Developer
 
----
+Hello, I'm **Prajwal Shetty**, a Computer Science student and aspiring **Full-Stack Developer** who enjoys understanding how technology works behind the scenes.
 
-## 🚀 Tech Stack
-
-- 💻 Languages: C, HTML, CSS, JavaScript  
-- 🧰 Tools & Frameworks: Node.js, Express.js, Embedded JS (EJS)  
-- 🔄 Currently learning: REST APIs & Databases (SQL and POSTGRESQL coming soon!)  
+I am currently focused on strengthening my web development skills and learning backend technologies. I am also interested in exploring how **Machine Learning and Artificial Intelligence** can be applied to solve real-world problems such as **traffic flow prediction and smart city systems**.
 
 ---
 
-## 🔭 Projects
+## Tech Stack
 
-### 🚦 Traffic Prediction System using Machine Learning  
-A project where I aim to use ML to help predict traffic flow for smarter cities.  
-🔗 [GitHub Repo](https://github.com/PrajwalShetty-114/Traffic-Flow-Prediction-Frontend/tree/master)
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
----
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-8BC34A?style=flat&logoColor=black)
 
-## 🎯 2025 Goals
-
-- ✅ Become a Full-Stack Developer  
-- 🤖 Learn how ML & AI work and start building my own models   
-- 🌱 Grow my developer network and contribute to open-source
-
----
-
-## 🎨 About Me
-
-- 🏸 I love playing badminton  
-- 🎨 I enjoy drawing (even though I’m still learning!)  
-- 💬 Favorite Quote: _"Just following the path... the time teaches us to adjust with anything."_  
+### Currently Learning
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+## Projects
 
-- [LinkedIn](https://www.linkedin.com/in/prajwal-shetty-4499332a7)  
-- 📧 Email: prajwalshetty795@gmail.com
+### 🚦 Traffic Flow Prediction System
+
+This project focuses on applying Machine Learning techniques to predict traffic patterns and support smarter transportation systems.
+
+🔗 https://github.com/PrajwalShetty-114/Traffic-Flow-Prediction-Frontend
 
 ---
 
-![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrajwalShetty-114&show_icons=true&theme=radical)
+## Goals
+
+- Become a skilled Full-Stack Developer  
+- Build real-world applications using AI and Machine Learning  
+- Contribute to open-source projects  
+- Continuously improve problem-solving and development skills  
+
+---
+
+## Interests
+
+- Playing badminton  
+- Drawing  
+- Exploring ideas related to smart cities and future technologies  
+
+---
+
+## Contact
+
+LinkedIn  
+https://www.linkedin.com/in/prajwal-shetty-4499332a7  
+
+Email  
+prajwalshetty795@gmail.com  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalShetty-114&show_icons=true" />
+</p>
+
+## Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalShetty-114&layout=compact" />
+</p>
