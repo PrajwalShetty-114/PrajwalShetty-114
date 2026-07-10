@@ -26,9 +26,10 @@ I am currently focused on strengthening my web development skills and learning b
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8BC34A?style=flat&logoColor=black)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
 
 ### Currently Learning
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
