@@ -1,85 +1,233 @@
-# 👋 Hi, I'm Prajwal Shetty
+# Hi, I'm Prajwal Shetty
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Aspiring+Full-Stack+Developer;Learning+Backend+Development;Exploring+AI+and+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=F7DF1E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+in+Progress;Backend+%7C+AI+%7C+Machine+Learning;Building+Technology+for+Real-World+Problems;Exploring+the+Future+of+Smart+Cities" alt="Typing SVG" />
 </p>
 
-## Aspiring Full-Stack Developer
+<p align="center">
+  <a href="https://github.com/PrajwalShetty-114">
+    <img src="https://komarev.com/ghpvc/?username=PrajwalShetty-114&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
-Hello, I'm **Prajwal Shetty**, a Computer Science student and aspiring **Full-Stack Developer** who enjoys understanding how technology works behind the scenes.
+---
 
-I am currently focused on strengthening my web development skills and learning backend technologies. I am also interested in exploring how **Machine Learning and Artificial Intelligence** can be applied to solve real-world problems such as **traffic flow prediction and smart city systems**.
+## About Me
+
+I'm **Prajwal Shetty**, a Computer Science student interested in understanding how technology works behind the scenes and turning ideas into practical solutions.
+
+Currently, I'm building my foundation in **Full-Stack Development and Backend Engineering**, while exploring **Artificial Intelligence and Machine Learning**.
+
+I'm particularly interested in applying technology to real-world problems involving **traffic, transportation, smart cities, and data-driven systems**.
+
+> **My goal isn't just to build software — I want to explore how technology can help build better systems, better cities, and a better future.**
+
+---
+
+## What I'm Working On
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### Full-Stack Development
+
+Building strong foundations in modern web development, backend systems, and APIs.
+
+</td>
+
+<td width="33%" align="center">
+
+### Artificial Intelligence
+
+Exploring Machine Learning and how data can be transformed into useful predictions.
+
+</td>
+
+<td width="33%" align="center">
+
+### Smart Cities
+
+Exploring technology-driven solutions for transportation, infrastructure, and urban systems.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-8BC34A?style=flat&logoColor=black)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat)
-
-### Currently Learning
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
----
-
-## Projects
-
-### 🚦 Traffic Flow Prediction System
-
-This project focuses on applying Machine Learning techniques to predict traffic patterns and support smarter transportation systems.
-
-🔗 https://github.com/PrajwalShetty-114/Traffic-Flow-Prediction-Frontend
-
----
-
-## Goals
-
-- Become a skilled Full-Stack Developer  
-- Build real-world applications using AI and Machine Learning  
-- Contribute to open-source projects  
-- Continuously improve problem-solving and development skills  
-
----
-
-## Interests
-
-- Playing badminton  
-- Drawing  
-- Exploring ideas related to smart cities and future technologies  
-
----
-
-## Contact
-
-LinkedIn  
-https://www.linkedin.com/in/prajwal-shetty-4499332a7  
-
-Email  
-prajwalshetty795@gmail.com  
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalShetty-114&show_icons=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript" alt="Languages"/>
 </p>
 
-## Top Languages
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,ejs" alt="Web Development"/>
+</p>
+
+### Backend, Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,postgresql,mysql,git,github,vscode" alt="Backend and Tools"/>
+</p>
+
+---
+
+## Featured Project
+
+### Traffic Flow Prediction System
+
+A Machine Learning based project focused on predicting traffic patterns and exploring how data-driven systems can support smarter transportation.
+
+**Concept:**
+
+```text
+Traffic Data
+     ↓
+Data Processing
+     ↓
+Machine Learning
+     ↓
+Traffic Prediction
+     ↓
+Visualization
+     ↓
+Smarter Decisions
+```
+
+**Repository**
+
+<a href="https://github.com/PrajwalShetty-114/Traffic-Flow-Prediction-Frontend">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,nodejs,express,python" alt="Currently Learning"/>
+</p>
+
+<table>
+<tr>
+<td>Backend Development</td>
+<td>REST APIs</td>
+</tr>
+<tr>
+<td>SQL & PostgreSQL</td>
+<td>Machine Learning</td>
+</tr>
+</table>
+
+---
+
+## Learning Journey
+
+```text
+Programming Fundamentals
+          │
+          ▼
+    Web Development
+          │
+          ▼
+  Backend Engineering
+          │
+          ├──────────────► Databases
+          │
+          ▼
+ Artificial Intelligence
+          │
+          ▼
+  Real-World Applications
+          │
+          ▼
+     Smart Cities
+```
+
+> Learn → Build → Understand → Improve
+
+---
+
+## Areas I Want to Explore
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Intelligent Transportation**
+
+Traffic prediction and intelligent mobility systems.
+
+</td>
+
+<td align="center" width="25%">
+
+**Smart Cities**
+
+Technology-driven urban systems and infrastructure.
+
+</td>
+
+<td align="center" width="25%">
+
+**Artificial Intelligence**
+
+Applying ML to practical problems.
+
+</td>
+
+<td align="center" width="25%">
+
+**Data-Driven Systems**
+
+Using data to understand and improve complex systems.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Beyond Technology
+
+* Playing badminton
+* Drawing
+* Exploring future technologies
+* Thinking about better ways to design cities and systems
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalShetty-114&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalShetty-114&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalShetty-114&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prajwal-shetty-4499332a7">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:prajwalshetty795@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+
+### Building today. Exploring tomorrow.
+
 </p>
