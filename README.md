@@ -153,7 +153,7 @@ What interests me most is using technology to solve **real-world problems** — 
 
 <td colspan="2" rowspan="2" align="center">
 
-<img src="./assets/developer.png" width="260" alt="Developer character"/>
+<img src="./developer.jpg" width="260" alt="Developer character"/>
 
 <br>
 
