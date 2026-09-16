@@ -334,7 +334,7 @@ Exploring technology for transportation and urban systems.
 
 <td width="48%" valign="middle">
 
-<img src="./Bengaluru Map" width="100%" alt="Traffic and transportation"/>
+<img src="./Bengaluru Map.jpg" width="100%" alt="Traffic and transportation"/>
 
 </td>
 
